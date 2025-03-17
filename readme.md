@@ -5,7 +5,9 @@
 Audio to Text Transcriber is part of the **Local Web Software 2025 (LWS25)** project, designed to convert audio files to text offline using Flask, SpeechRecognition, and Pydub.  
 
 ---
-![preview] (review.jpg)
+
+<img src="review.jpg">
+
 ---
 
 ## ⚡ Features  
